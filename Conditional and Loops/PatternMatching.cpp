@@ -1,7 +1,8 @@
+// Author : Nisarg Chokshi
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-//#include <stdlib.h>
+#include <stdlib.h>
 
 
 int minimum(int a, int b)
